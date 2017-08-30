@@ -21,7 +21,7 @@ Postman (done)
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
 
 frontend
-Angular 2 => SPA
+Angular 2 => SPA (l14)
 TypeScript
 Binding
 Angualr Quick Start
@@ -61,5 +61,7 @@ http://www.dotnettricks.com/learn/dependencyinjection/understanding-inversion-of
 
 -----------
 l13: https://learnxinyminutes.com/docs/typescript/
+l14: https://www.tutorialspoint.com/angularjs/angularjs_first_application.htm
+login angular: http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
 
 

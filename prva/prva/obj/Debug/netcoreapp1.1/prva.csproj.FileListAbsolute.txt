@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\bin\Debug\netcoreapp1.1\prva.deps.json
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\bin\Debug\netcoreapp1.1\prva.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\bin\Debug\netcoreapp1.1\prva.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\bin\Debug\netcoreapp1.1\prva.dll
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\bin\Debug\netcoreapp1.1\prva.pdb
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\obj\Debug\netcoreapp1.1\prva.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\obj\Debug\netcoreapp1.1\prva.dll
+c:\users\user\documents\visual studio 2017\Projects\prva\prva\obj\Debug\netcoreapp1.1\prva.pdb

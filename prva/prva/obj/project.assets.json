@@ -9796,10 +9796,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\prva\\prva\\prva.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\hamza\\prva\\prva\\prva.csproj",
       "projectName": "prva",
-      "projectPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\prva\\prva\\prva.csproj",
-      "outputPath": "c:\\users\\user\\documents\\visual studio 2017\\Projects\\prva\\prva\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\hamza\\prva\\prva\\prva.csproj",
+      "outputPath": "C:\\Users\\User\\Desktop\\hamza\\prva\\prva\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

@@ -6,3 +6,12 @@ c:\users\user\documents\visual studio 2017\Projects\prva\prva\bin\Debug\netcorea
 c:\users\user\documents\visual studio 2017\Projects\prva\prva\obj\Debug\netcoreapp1.1\prva.AssemblyInfo.cs
 c:\users\user\documents\visual studio 2017\Projects\prva\prva\obj\Debug\netcoreapp1.1\prva.dll
 c:\users\user\documents\visual studio 2017\Projects\prva\prva\obj\Debug\netcoreapp1.1\prva.pdb
+C:\Users\User\Desktop\hamza\prva\prva\bin\Debug\netcoreapp1.1\prva.deps.json
+C:\Users\User\Desktop\hamza\prva\prva\bin\Debug\netcoreapp1.1\prva.runtimeconfig.json
+C:\Users\User\Desktop\hamza\prva\prva\bin\Debug\netcoreapp1.1\prva.runtimeconfig.dev.json
+C:\Users\User\Desktop\hamza\prva\prva\bin\Debug\netcoreapp1.1\prva.dll
+C:\Users\User\Desktop\hamza\prva\prva\bin\Debug\netcoreapp1.1\prva.pdb
+C:\Users\User\Desktop\hamza\prva\prva\obj\Debug\netcoreapp1.1\prva.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\hamza\prva\prva\obj\Debug\netcoreapp1.1\prva.AssemblyInfo.cs
+C:\Users\User\Desktop\hamza\prva\prva\obj\Debug\netcoreapp1.1\prva.dll
+C:\Users\User\Desktop\hamza\prva\prva\obj\Debug\netcoreapp1.1\prva.pdb

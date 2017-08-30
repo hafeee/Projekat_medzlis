@@ -1,0 +1,25 @@
+backend
+.net core             / ima i standard, njega za sada ignorisati
+C# => Extension Methods, LINQ, nuget
+asp.net mvc web api => MVC , REST API, JSON, Inverion of Control , Dependency Injection, Controller,
+entity framework => model mapping to database , Object Relations , (Code first / Database first) , migrations
+Postman
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
+
+frontend
+Angular 2 => SPA
+TypeScript
+Binding
+Angualr Quick Start
+https://github.com/angular/quickstart
+https://angular.io/guide/quickstart
+https://angular.io/guide/visual-studio-2015
+
+
+
+SQL Maangement Studio
+
+TSQL
+
+var admin = CreateUser(context, userManager, "AVelija1", "Almedin", "Velija", "Pass4User!");
+ 

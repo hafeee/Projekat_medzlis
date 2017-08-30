@@ -1,9 +1,23 @@
 backend
 .net core             / ima i standard, njega za sada ignorisati
-C# => Extension Methods, LINQ, nuget
-asp.net mvc web api => MVC , REST API, JSON, Inverion of Control , Dependency Injection, Controller,
-entity framework => model mapping to database , Object Relations , (Code first / Database first) , migrations
-Postman
+
+C# => Extension Methods (done l7), LINQ (done),
+nuget (done)
+
+asp.net mvc web api => MVC (link 3, link 5) ,
+ REST API(link4),
+ JSON (DONE), 
+Inverion of Control (l12) , 
+Dependency Injection ((link 1, 11), done),
+ Controller (done)
+
+
+entity framework => model mapping to database (l8, l9) ,
+ Object Relations ,
+ (Code first / Database first) ,
+ migrations (l10)
+Postman (done)
+
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
 
 frontend
@@ -15,11 +29,37 @@ https://github.com/angular/quickstart
 https://angular.io/guide/quickstart
 https://angular.io/guide/visual-studio-2015
 
+https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro
 
 
 SQL Maangement Studio
 
 TSQL
-
+-----
 var admin = CreateUser(context, userManager, "AVelija1", "Almedin", "Velija", "Pass4User!");
- 
+code academy - https://www.codecademy.com/learn/all
+css i html i javascript i typescript
+
+
+
+link 1: https://github.com/aspnet/Docs/blob/master/aspnetcore/tutorials/first-web-api/_static/_webAPI.pdf
+kul link2: https://docs.microsoft.com/en-us/nuget/quickstart/use-a-package
+l3: https://docs.microsoft.com/en-us/aspnet/core/mvc/overview
+l4: https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api
+l5 (jako kul): https://docs.microsoft.com/en-us/aspnet/core/mvc/overview
+useful link: https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
+asp.net core mvc and Entity Framework Core, VStutorial: https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro
+l7: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods
+routing: https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing
+l8: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/walkthrough-simple-object-model-and-query-csharp
+l9: https://www.exceptionnotfound.net/mapping-datatables-and-datarows-to-objects-in-csharp-and-net-using-reflection/
+l10: https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/migrations
+l11: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection && https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db
+l12: http://joelabrahamsson.com/inversion-of-control-an-introduction-with-examples-in-net/ &&
+https://msdn.microsoft.com/en-us/library/ff921087.aspx  &&
+http://www.dotnettricks.com/learn/dependencyinjection/understanding-inversion-of-control-dependency-injection-and-service-locator
+
+-----------
+l13: https://learnxinyminutes.com/docs/typescript/
+
+

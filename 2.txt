@@ -63,5 +63,11 @@ http://www.dotnettricks.com/learn/dependencyinjection/understanding-inversion-of
 l13: https://learnxinyminutes.com/docs/typescript/
 l14: https://www.tutorialspoint.com/angularjs/angularjs_first_application.htm
 login angular: http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
+-----
+https://angular.io/guide/dependency-injection
+
+async: http://exploringjs.com/es6/ch_promises.html
+-----
+trenutno nja: https://angular.io/tutorial/toh-pt5
 
 

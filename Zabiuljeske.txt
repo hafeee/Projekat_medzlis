@@ -1,0 +1,1 @@
+za Observable, npr. Subject<T>() se pusha u kolekciju sa .next(item)

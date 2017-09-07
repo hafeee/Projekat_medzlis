@@ -1,1 +1,15 @@
 za Observable, npr. Subject<T>() se pusha u kolekciju sa .next(item)
+
+
+----
+Šta sam nauèio:
+Extension metode u c#, LINQ
+Dependency injection
+Controllere (API, JSON,...)
+
+Angular bacics
+TypeScript basic
+HTML
+CSS
+
+

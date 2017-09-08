@@ -11,5 +11,28 @@ Angular bacics
 TypeScript basic
 HTML
 CSS
+-------
+stranice gdje se uci, provjeriti:
+https://www.freecodecamp.org/signin
+https://codecode.ninja/
 
 
+-------
+obavezno kuci uciti odavde:
+
+https://www.edx.org/course/build-web-apis-using-asp-net-microsoft-dev247x
+https://www.edx.org/course/developing-dynamic-web-applications-microsoft-dev216x-0
+https://www.edx.org/course/logic-computational-thinking-microsoft-dev262x
+https://courses.edx.org/courses/course-v1:Microsoft+DEV247x+2T2017/course/
+https://www.coursera.org/?siteID=3PhbAxfdARQ-Zjn14vBbsP5dyUD8wxElew&utm_content=3&utm_medium=partners&utm_source=linkshare&utm_campaign=3PhbAxfdARQ
+https://www.coursera.org/specializations/deep-learning
+https://www.coursera.org/learn/cryptocurrency
+https://www.coursera.org/
+-
+------
+https://www.codecademy.com/courses/learn-javascript-loops/lessons/loops/exercises/for-loops-iii?action=lesson_resume&course_redirect=introduction-to-javascript
+
+
+------
+fun programerski izazovi:
+https://www.reddit.com/r/dailyprogrammer/

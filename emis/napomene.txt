@@ -1,0 +1,29 @@
+provjeriti kako radi upis uèenika u školu
+--
+šta ako se student ispise i upise u dr skolu, dr razred, smijer
+--
+kakva je razlika izmeðu AktivanUpis i Završen upis? (u opisu je naznaèeno da je 'Završen jer je razred završen'?)
+--
+da li su povezani prof sa predmetima semestra (jesu, ima NastavnikId vezan za PredmetiSemestra)
+-> mozda bi trebalo u ocjene dodati i id onoga ko upisuje ocjenu (preko servisa, tj stranice)
+--
+"meðutim jedan od zahtijeva je da škole mogu da mijenjaju nivoe i nazive ocjena za vladanje" -> provjeriti
+--
+
+može li škola promjeniti prof na predmetu
+--
+provjeriti kako se unose ocjene za uceniuke- -> bilo bi kul kad bi sistem automatski generisao zakljuènu ocjenu
+--
+moze li ucenik promjeniti smijer-> provjeriti
+--
+mogu li se uèenici dodati u uloge korisnika zarad pregleda svojih ocjena i vladanja (provjereno, ne mogu), alikacije za potvrdama, aplikaciji o promjeni smjera, odjeljenja,...
+--
+sadasnji podaci:
+Školska godina	2015/2016
+Broj škola	124
+Broj nastavnika	1435
+Broj uèenika	24523
+---
+
+
+

@@ -1,0 +1,12 @@
+--
+sta ako nije isti btoj odjeljenja po razredima? -> valjda bi odjeljenje trebalo biti vezano za jednu skolsku godinu, jedan razred
+--
+Šta su semestri u osnovnom obrazovanju? -> kao polugodišta
+--
+Kako se prikazuju škole na karti škola (je li implementirano?)
+--
+//finalna ocjena? Prosjeci i sl. -> checked
+--
+str 10. -> typo -> StatusUpIsaRazreda
+--
+ovaj gadget koji prikazuje postotak online i ofline -> je li ok?

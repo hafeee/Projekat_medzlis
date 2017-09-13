@@ -1,0 +1,85 @@
+1. Adamin
+probano je dodavanje škole sa Adminom, dodavanje odjeljenja, predmeta, vrste predmeta,
+
+-tesko dodati uèenika, osobu,
+nemoguæe semestar (zbog nemoguænosti odabira razreda),
+
+
+
+
+--
+nisam dirao šifarnike
+
+
+2.Ministarstvo
+nemoguæe dodati i školu, pokusaj s ovim podacima neuspjesno: 
+Dodavanje škole
+Naziv škole
+
+hafinatorska skola
+Adresa škole
+
+ulica broj 2
+Telefon
+
+033033033
+Faks
+
+033033033
+Email
+
+email@nesto.com
+Web stranica
+
+http://portal.skola.ba/start/
+Broj žiro raèuna
+
+123132321312
+Opis škole
+
+oo
+Dodaj
+------------------------
+izgleda da je nemoguce i editovati
+nemoguæe jke dodati i predmet, kao i vrstu predmeta
+
+
+dodano je odjeljenje, 
+
+//Moram dodati i Razrednika -> da bih dodao razred-> da bih dodao odjeljenje / semestar;
+
+3. Nastavnik
+On vidi samo Uèenike i Semestar
+ne može dodati uèenika, mada postoji opcija i sva polja za njegov unos.
+Semestar ne može dodati jer ne postoji razred
+4. uprAava škole
+uprava škole (jeina) može upisati uèenika u školu ili razred (èak ni admin to ne može, a ministarstvo ne može ni edit ni add uèenika)
+--------------------------------------------------------------------------------
+http://emis.web.orbicode.com
+http://emis.web.orbicode.com:8080
+
+u: admin
+p: adminpass
+
+------
+novi korisnik, admin:
+
+u: hhh
+p: lalala
+------
+novi korisnik, ministarstvo:
+
+u: hhhh
+p: lalala
+-----
+novi korisnik, nastavnik
+
+U: hhhhh
+p: lalala
+-----
+novi korisnik, uprava škole
+
+u: skolicahh
+p: lalala
+
+-------------------------------------------------------------------------------------

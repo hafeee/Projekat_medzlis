@@ -1,0 +1,25 @@
+1. Pro dodavanju škole, kada se unese Naziv, Adresa i Telefon (i e mail i web str), tada se ne može dodati škola, ali korisnik ne zna šta još treba da doda i u èemu je problem. (opis izgleda da je nužan, n ekad e mail)
+2. kad se doda skola, pa iz editora kad se ode na upravljaj skolama, i kad se ode na 2, str, ne moze se vratiti opet na porvu.
+3. Manje bitna stvar -> gube se svi podaci koji su do nekog trenutka unijeti u editor u polju "Dodaj skolu" kada se ode na neki drugi prikaz.
+4. Kad se edituje lokacija škole iz "Upravjaj školama" i kad se jedom spasi, ako korisnik slucajno spasi pogresno ili dovoljno neprecizno, ne može taj proces ponoviti odmah iz istog taba, nego mjora opet iæi 
+na "Upravljaj skolama"pa ....
+5. Adresa se ne update-a sa promjenom loklacije na gore opisan naèin.
+6. Link web adrese je samo obièan tekst, tako da ga user manuelno mora kopirati i pastati ako želi posjetiti stranicu skole. (kako kad)
+7. Valjda bi pri dodavanju škole trebalo biti moguæe dodati sve -> uposlenja, smjerove, lokaciju,...
+8. Lokacija bi trebala biti povezana sa kartom
+9. Kod dodavanja web stranice za skolu, treba se dodati èuitav path što je mnogima zamorno (nekima bi moglo biti i nepoznato)
+10. Nema validacija za telefon ili faks 
+11. kod odjeljenja -> upravlèjaj odjeljenjem -> bug; riješeno u novijoj verziji
+12. Nema prikazanih svih škola prilikom popunjavanja polja 'Škola' kada se klreira novo odjeljenje
+13. Što je razdvojeno dodaj osobu i dodaj nastavnika -> dupliranje koda;
+14. Kad se dodaje osoba, nema nikakve potvrde da je ona doista dodana.
+15. Šta ne valja pri unosu osoba i treba to korisnik da zna. Ja nisam uspio unijeti osobu.
+16. Nekad ne radi šaltanje straqnica prilikom pregleda predmeta -> slièno kao kod škola
+17. Zar ne bi trebalo dodati svrhu predmeta pri dodavanju predmeta
+18. Nije moguæe obrisati odjeljenje ako se isto sluèajno doda. 
+19. Uprava škole ne može dodati nastavnika.
+20. Kad se ide na dodavanje semestra, naslov je dodavanje odjeljenje haha
+21. Nemoguæe je dodati razrednika
+22. Kako je povezano da profesor jednog predmeta može davati ocjene samo za svoj predmet?  -- !!!
+23. Èemu služi i da li postojji uopæe 'Jedinstveni identifikator uèenika'?
+24.  

@@ -36,3 +36,6 @@ https://www.codecademy.com/courses/learn-javascript-loops/lessons/loops/exercise
 ------
 fun programerski izazovi:
 https://www.reddit.com/r/dailyprogrammer/
+-------
+
+atom, sublime, VSCode

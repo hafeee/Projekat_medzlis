@@ -24,6 +24,33 @@ Broj škola	124
 Broj nastavnika	1435
 Broj uèenika	24523
 ---
+probana skola sa ministarstvom:
+, pokusaj s ovim podacima neuspjesno: 
+Dodavanje škole
+Naziv škole
 
+hafinatorska skola
+Adresa škole
+
+ulica broj 2
+Telefon
+
+033033033
+Faks
+
+033033033
+Email
+
+email@nesto.com
+Web stranica
+
+http://portal.skola.ba/start/
+Broj žiro raèuna
+
+123132321312
+Opis škole
+
+oo
+Dodaj
 
 

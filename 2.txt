@@ -35,6 +35,13 @@ https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro
 SQL Maangement Studio
 
 TSQL
+
+https://material.io/guidelines/
+
+vue.js
+http://emis.web.orbicode.com
+http://emis.web.orbicode.com:8080
+
 -----
 var admin = CreateUser(context, userManager, "AVelija1", "Almedin", "Velija", "Pass4User!");
 code academy - https://www.codecademy.com/learn/all
